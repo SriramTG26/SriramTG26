@@ -1,39 +1,48 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="center">Hi, I'm Sriram T G 👋</h1>
+<h3 align="center">CSE @ MIT Chennai | Developer | Problem Solver | Code Refiner</h3>
 
-###
+---
 
-<p align="left">My name is sriram and I'm a UG student from Madras Institute of Technology</p>
+### 🧠 About Me
 
-###
+- 🎓 Undergraduate student at Madras Institute of Technology, Chennai  
+- 💡 Exploring scalable software design, API integration, and real-world deployment  
+- 🧰 Skilled in writing clean, modular code across multiple languages  
+- 📚 Focused on building reliable systems and visually engaging interfaces  
+- 📫 Reach me at: sriramoffcial2624@gmail.com
 
-<h2 align="left">About me</h2>
+---
 
-###
+### 🛠️ Languages & Tools
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning C <br>🎯 Goals: <br>🎲 Fun fact: ...</p>
+<p align="left"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+</p>
 
-###
+---
 
-<h2 align="left">I code with</h2>
+### 📂 Featured Repositories
 
-###
+- `java-dsa-snippets` – Modular Java implementations of core algorithms  
+- `c++-algorithms` – Clean, academic-friendly C++ solutions with comments  
+- `portfolio-site` – Responsive personal website built with HTML, CSS, JS  
+- `cli-tools` – Lightweight command-line utilities for formatting and debugging  
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-</div>
+---
 
-###
+### 📊 GitHub Stats
+
+![Sriram's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SriramTG26&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SriramTG26&layout=compact&theme=default)
+
+---
+
+### 🧭 Philosophy
+
+> "Readable code is scalable code. I build with clarity, refactor with purpose, and debug with intent."
